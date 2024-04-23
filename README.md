@@ -6,4 +6,4 @@ Here my implematation choices: [Fraud detection.pdf](Fraud%20detection.pdf).
 
 Here to generate the csv files: [tables_generator_parallel.ipynb](tables_generator_parallel.ipynb).
 
-Here to see the query implementation: [queries_exec.ipynb](queries_exec.ipynb).
+Here to see the queries implementation: [queries_exec.ipynb](queries_exec.ipynb).
